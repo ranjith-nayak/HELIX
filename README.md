@@ -341,7 +341,7 @@ Enables executives to monitor organizational performance, identify operational t
 
 ### Executive Dashboard
 
-<img src="C:\Users\user\Pictures\Screenshots\Screenshot 2026-07-01 210701.png" width="100%">
+<img src="Assests/Dashboard Screenshots/executive.png" width="100%">
 
 </p>
 
@@ -378,7 +378,7 @@ Helps organizations monitor revenue performance, evaluate product demand, identi
 
 ### Sales Dashboard
 
-<img src="C:\Users\user\Pictures\Screenshots\Screenshot 2026-07-01 210734.png" width="100%">
+<img src="Assests/Dashboard Screenshots/sales.png" width="100%">
 
 </p>
 
@@ -415,7 +415,7 @@ Supports inventory optimization, minimizes stock shortages, and improves operati
 
 ### Inventory Dashboard
 
-<img src="C:\Users\user\Pictures\Screenshots\Screenshot 2026-07-01 210759.png" width="100%">
+<img src="Assests/Dashboard Screenshots/inventory.png" width="100%">
 
 </p>
 
@@ -452,7 +452,7 @@ Enables organizations to improve customer engagement, retention strategies, and 
 
 ### Customer Dashboard
 
-<img src="C:\Users\user\Pictures\Screenshots\Screenshot 2026-07-01 210825.png" width="100%">
+<img src="Assests/Dashboard Screenshots/customers.png" width="100%">
 
 </p>
 
@@ -488,7 +488,7 @@ Supports better supplier selection, procurement planning, and supply chain optim
 
 ### Supplier Dashboard
 
-<img src="C:\Users\user\Pictures\Screenshots\Screenshot 2026-07-01 210847.png" width="100%">
+<img src="Assests/Dashboard Screenshots/supplier.png" width="100%">
 
 </p>
 
@@ -525,7 +525,7 @@ Empowers decision-makers with forward-looking analytics to support proactive pla
 
 ### Forecast Dashboard
 
-<img src="C:\Users\user\Pictures\Screenshots\Screenshot 2026-07-01 210913.png" width="100%">
+<img src="Assests/Dashboard Screenshots/forecast.png" width="100%">
 
 </p>
 
@@ -549,7 +549,7 @@ This page provides:
 
 ### About HELIX
 
-<img src="C:\Users\user\Pictures\Screenshots\Screenshot 2026-07-01 210934.png" width="100%">
+<img src="Assests/Dashboard Screenshots/about.png" width="100%">
 
 </p>
 
@@ -832,10 +832,6 @@ It motivates me to continue building impactful analytics products and sharing th
 
 ## **Ranjith A R**
 
-**Aspiring Data Analyst • Analytics Engineer • Data Engineer**
-
-Passionate about building enterprise-grade analytics platforms that transform raw data into actionable business intelligence through data engineering, analytics, machine learning, and visualization.
-
 📧 **Email:** 24ranjith2003@gmail.com
 
 🌐 **Portfolio:** https://ranjith-nayak.github.io
@@ -852,7 +848,7 @@ Passionate about building enterprise-grade analytics platforms that transform ra
 
 **HELIX • Enterprise Data Intelligence Platform**
 
-I didn't made with ❤️ using SQL, Python, Power BI, and Machine Learning instead just wanna be better than previous and wanna give my 100% into any I do learn!
+I didn't made with ❤️ using SQL, Python, Power BI, and Machine Learning !
 
 © 2026 Ranjith A R. All Rights Reserved.
 

@@ -1,0 +1,71 @@
+┌──────────────────────────────────────────────────────────────────────┐
+│                     CUSTOMER DOMAIN - HELIX                          │
+└──────────────────────────────────────────────────────────────────────┘
+
+
+                           Customer Segment
+                    (Defines Customer Category)
+                                   │
+                                   │ 1
+                                   │
+                                   │
+                                   ▼
+┌──────────────────────────────────────────────────────────────────────┐
+│                           Customer                                   │
+├──────────────────────────────────────────────────────────────────────┤
+│ PK  CustomerID                                                       │
+│ FK  SegmentID                                                        │
+│ FirstName                                                            │
+│ LastName                                                             │
+│ Email                                                                │
+│ Phone                                                                │
+│ DateOfBirth                                                          │
+│ Gender                                                               │
+│ RegistrationDate                                                     │
+│ Status                                                               │
+│ PreferredLanguage                                                    │
+│ PreferredCurrency                                                    │
+│ MarketingOptIn                                                       │
+│ CreatedDate                                                          │
+│ UpdatedDate                                                          │
+└──────────────────────────────────────────────────────────────────────┘
+          │
+          │ 1
+          │
+          ├──────────────────────────────────────┐
+          │                                      │
+          │                                      │
+          ▼                                      ▼
+
+┌─────────────────────────────┐        ┌─────────────────────────────┐
+│     Customer Address        │        │     Customer Loyalty        │
+├─────────────────────────────┤        ├─────────────────────────────┤
+│ PK AddressID                │        │ PK LoyaltyID               │
+│ FK CustomerID               │        │ FK CustomerID              │
+│ AddressType                 │        │ Tier                       │
+│ AddressLine1                │        │ CurrentPoints              │
+│ AddressLine2                │        │ EarnedPoints               │
+│ City                        │        │ RedeemedPoints             │
+│ State                       │        │ LastUpdated                │
+│ PostalCode                  │        │ CreatedDate                │
+│ CountryCode                 │        │ UpdatedDate                │
+│ IsDefault                   │        └─────────────────────────────┘
+│ CreatedDate                 │
+│ UpdatedDate                 │
+└─────────────────────────────┘
+
+
+
+Future Relationships
+
+Customer
+    │
+    ├────────────► Orders
+    │
+    ├────────────► Reviews
+    │
+    ├────────────► Support Tickets
+    │
+    ├────────────► Returns
+    │
+    └────────────► Marketing Preferences

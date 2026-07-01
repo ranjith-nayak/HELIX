@@ -1,0 +1,11 @@
+CustomerID,SegmentID,FirstName,LastName,Email,Phone,DateOfBirth,Gender,RegistrationDate,Status
+CUS000001,SEG001,Ekavir,Shan,ekavir.shan413@yahoo.com,8519183632,06-07-1964,Female,04-07-2024,Prospect
+CUS000002,SEG001,Peter,Ramesh,peter.ramesh806@outlook.com,8725978991,16-02-1983,Male,19-07-2024,Prospect
+CUS000003,SEG001,Umang,Lanka,umang.lanka633@gmail.com,8571655004,25-06-1976,Female,25-06-2024,Active
+CUS000004,SEG002,Janani,Thaker,janani.thaker439@yahoo.com,9798188432,30-05-1971,Male,01-11-2024,Active
+CUS000005,SEG002,Libni,Tara,libni.tara396@icloud.com,7527912677,22-06-1964,Male,13-03-2025,Prospect
+CUS000006,SEG003,Neelima,Kohli,neelima.kohli270@icloud.com,7172644371,16-01-1970,Male,31-05-2026,Prospect
+CUS000007,SEG002,Onkar,Keer,onkar.keer881@proton.me,7115768411,11-03-1967,Female,21-06-2024,Loyal
+CUS000008,SEG002,Kamala,Warrior,kamala.warrior297@gmail.com,9873572213,02-09-1976,Male,21-11-2024,Active
+CUS000009,SEG002,Ikshita,Oommen,ikshita.oommen373@outlook.com,7945287638,05-09-1981,Male,08-12-2023,Loyal
+CUS000010,SEG001,Madhav,Mani,madhav.mani293@icloud.com,7263697384,01-09-1979,Male,11-10-2024,Prospect
